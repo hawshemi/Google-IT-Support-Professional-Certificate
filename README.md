@@ -8,7 +8,7 @@
 
 ### 1. [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/AZMWJH7T7H7Y_
 #
 ### 2. [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking?specialization=google-it-support)
 
