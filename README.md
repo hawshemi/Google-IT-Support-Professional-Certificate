@@ -12,7 +12,7 @@
 #
 ### 2. [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking?specialization=google-it-support)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/RMZ86CQUALN4_
 #   
 ### 3. [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
 
