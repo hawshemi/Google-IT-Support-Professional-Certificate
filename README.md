@@ -16,7 +16,7 @@
 #   
 ### 3. [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/VS5MJHWKVLPJ_
 #   
 ### 4. [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services?specialization=google-it-support)
 
