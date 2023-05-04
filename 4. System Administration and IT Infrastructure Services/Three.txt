@@ -1,0 +1,18 @@
+Dewgood, a small non-profit with 50 employees, currently has a limited IT infrastructure and significant inefficiencies in its processes. Some potential process enhancements that could assist Dewgood are as follows:
+
+Purchase Computers from a Vendor:
+Due to budget limits, computers are currently purchased directly in a physical store on the day an employee is employed. This process can be streamlined by obtaining PCs from a vendor who offers competitive pricing and the ability to buy in bulk. This would also help to ensure that new employees have a computer on their first day.
+
+Implement a Messaging System:
+Dewgood currently lacks a messaging system. This might lead to ineffective communication and make it difficult for staff to collaborate. Implementing a messaging system, such as Slack or Microsoft Teams, would aid in streamlining communication and improving employee collaboration.
+
+Improve the Ticketing System:
+Because the present ticketing system is complex and difficult to use, many employees bypass it and contact the IT person directly. Dewgood could think about putting in a more user-friendly ticketing system that is simple to access and understand. This would reduce the number of IT-related questions received by the IT worker, freeing up their time to focus on more critical IT responsibilities.
+
+Disable Employee Accounts When They Leave:
+At the moment, employee accounts in the directory service are not disabled when an employee leaves. Former employees may still have access to critical information, posing a security concern. Putting in place a method to disable employee accounts when they leave would help to limit this risk.
+
+Improve Website Uptime:
+The Dewgood website has been down on multiple occasions, and there is no clear mechanism in place for what to do when this happens. The IT professional should look into the main reason of the outage and strive to adopt a more dependable hosting option, such as a cloud-based platform. Furthermore, the IT specialist should document a clear procedure for what to do in the event of future downtime.
+
+Overall, these process enhancements would assist Dewgood in streamlining their IT processes, improving employee communication and collaboration, and mitigating security threats. Dewgood may better focus on their objective of assisting the community by implementing these adjustments.
