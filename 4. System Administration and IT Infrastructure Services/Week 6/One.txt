@@ -1,0 +1,18 @@
+The current IT infrastructure of Network Funtime Company has various areas for development that might increase efficiency, security, and production. Here are five suggested process enhancements for the company:
+
+Develop an inventory system and standardize laptop models. 
+The HR representative should collaborate with the system administrator to find the best laptops for the company's needs. Standardizing laptop models can make hardware maintenance and troubleshooting easier. Furthermore, putting in place an inventory system can provide accountability and tracking for all company-owned hardware.
+
+Implement a new employee onboarding process. 
+The HR representative should collaborate with the system administrator to provide a thorough onboarding process for new workers. Setting up gear, software, and access to cloud services should all be part of the process. This method can cut the amount of time spent on orientation and allow workers to begin working sooner.
+
+Implement stringent password policies. 
+All employees should have strong password policies that are enforced by the system administrator. Employees may be required to use difficult passwords that expire on a regular basis. This can help to secure company-owned hardware and cloud services.
+
+Create a password reset tool that is self-service. 
+For employees to reset their passwords, the system administrator should create a self-service password reset tool. This can reduce the frequency of helpdesk requests for password resets while also increasing productivity.
+
+Use a helpdesk ticketing system that is centralized. 
+For all employee demands about hardware, software, and cloud services, the organization should build a single helpdesk ticketing system. This can increase efficiency by ensuring that all requests are tracked, assigned, and resolved on time.
+
+Overall, these process enhancements can boost Network Funtime Company's efficiency, productivity, and security. These ideas take into account the company's needs and constraints, and they can be adopted without incurring large financial costs.

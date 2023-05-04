@@ -1,0 +1,16 @@
+W.D. Widgets' IT infrastructure has a few key issues that need to be solved. The following are five process enhancements and justifications:
+
+Implementing a hardware inventory system:
+There is currently no system in place to keep track of the number of computers and their specifications. Because there is no inventory system, it is difficult to determine when hardware needs to be replaced. Furthermore, if a machine is lost or stolen, there is no way of knowing what data has been compromised. IT could use an inventory system to maintain track of all hardware, its specifications, and its location. This would allow the IT department to replace obsolete hardware in a timely way while still protecting sensitive data.
+
+Migrating to cloud-based services:
+Currently, all of W.D. Widgets' services are in-house, which necessitates a significant investment in IT resources to maintain. Moving services like email and instant messaging to the cloud will lessen the workload of the IT staff while also ensuring that services are constantly up to date. This would also free up IT resources for more vital activities like data backup and cybersecurity.
+
+Implementing a backup and disaster recovery plan:
+There are no backups for the company's important customer data, which is stored on a single file server. This is a huge risk because any data loss could have serious financial ramifications for the firm. Having a backup and disaster recovery plan in place will ensure that the company's data is always safe and accessible. This would also prevent employees from wasting time recreating missing data.
+
+Standardizing software installations:
+It takes a long time to manually install sales-specific programs on each workstation. IT would save a lot of time if the software installation process was standardized and software deployment technologies like Microsoft System Center Configuration Manager (SCCM) were used. This will also ensure that all machines had the required apps installed, limiting the possibility of problems and support requests.
+
+Scaling IT operations:
+Because of the company's rapid expansion, IT operations will need to scale to meet the growing demand. This can be accomplished by recruiting more IT personnel or outsourcing IT services. Furthermore, automating repetitive tasks like user account creation would allow IT staff to focus on more critical tasks.
