@@ -24,7 +24,7 @@
 #
 ### 5. [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security?specialization=google-it-support)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/QWU9K37E8UVX_
 #
 
 
