@@ -3,7 +3,7 @@
 
 
 ## [Coursera Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/professional-cert/MDQR6A7GWYY9
 #
 
 ### 1. [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)
